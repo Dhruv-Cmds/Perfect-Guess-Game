@@ -1,6 +1,6 @@
 # Perfect Guess Game 🎯
 
-A simple Python game where the player tries to guess the secret number in the minimum number of attempts.
+A Python game where the player tries to guess the secret number in the minimum number of attempts.
 
 ## Features
 - Random number generation
@@ -8,13 +8,21 @@ A simple Python game where the player tries to guess the secret number in the mi
 - Beginner friendly
 - Runs in terminal
 
+## Requirements
+- Python 3.x
+
 ## How to Run
 
 1. Make sure Python is installed
 2. Download or clone this repository
-3. Open terminal in project folder
+3. Open terminal in the project folder
 4. Run:
 
 ```bash
 python main.py
 
+Author
+Dhruv
+
+License
+Free for educational use.
